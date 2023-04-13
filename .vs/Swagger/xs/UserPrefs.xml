@@ -1,4 +1,30 @@
-﻿<Properties StartupConfiguration="{774781F5-F26C-458F-8ED0-C547A2BC68D7}|https" GitUserInfo="UsingGIT">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{774781F5-F26C-458F-8ED0-C547A2BC68D7}|https">
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Swagger/MyTest.cs">
+    <Files>
+      <File FileName="Swagger/Program.cs" />
+      <File FileName="Swagger/WeatherForecast.cs" />
+      <File FileName="Swagger/MyTest.cs" Line="11" Column="37" />
+      <File FileName="Swagger/Controllers/WeatherForecastController.cs" />
+      <File FileName="Swagger/Controllers/MyTestController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Swagger" expanded="True">
+            <Node name="Swagger" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="MyTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.Swagger PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

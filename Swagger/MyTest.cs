@@ -6,6 +6,7 @@ namespace Swagger
 		public MyTest()
 		{
 			Console.WriteLine("We testing");
+	
 		}
 		public string tester { get; set; }
 	}
