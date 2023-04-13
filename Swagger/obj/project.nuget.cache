@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9IsHATRW7lpYmgI3UAuAXrqh+EcVP0kUK4mTbPtLuVH6k9ufdrKdPIgXiPO+xNiTT8UzZUyaS1MU+h0ia3k/OA==",
+  "dgSpecHash": "Lq6rBs6kZPEUusFt5zd0s8eVB+8mu0fLC+/brIQOdceE7kA8pqbaqo8arVPfy5Hy0npQ78Rcf2PbYruOqNjNNA==",
   "success": true,
-  "projectFilePath": "/Users/shahroz/Projects/Swagger/Swagger/Swagger.csproj",
+  "projectFilePath": "/Users/shahroz/Documents/GitHub/Dotnet-Swagger-OpenAPI-Xamarin/Swagger/Swagger.csproj",
   "expectedPackageFiles": [
     "/Users/shahroz/.nuget/packages/microsoft.aspnetcore.openapi/7.0.5/microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "/Users/shahroz/.nuget/packages/microsoft.build.tasks.git/1.1.1/microsoft.build.tasks.git.1.1.1.nupkg.sha512",

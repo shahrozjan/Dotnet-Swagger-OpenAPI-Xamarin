@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/shahroz/Projects/Swagger/Swagger/Swagger.csproj": {}
+    "/Users/shahroz/Documents/GitHub/Dotnet-Swagger-OpenAPI-Xamarin/Swagger/Swagger.csproj": {}
   },
   "projects": {
-    "/Users/shahroz/Projects/Swagger/Swagger/Swagger.csproj": {
+    "/Users/shahroz/Documents/GitHub/Dotnet-Swagger-OpenAPI-Xamarin/Swagger/Swagger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shahroz/Projects/Swagger/Swagger/Swagger.csproj",
+        "projectUniqueName": "/Users/shahroz/Documents/GitHub/Dotnet-Swagger-OpenAPI-Xamarin/Swagger/Swagger.csproj",
         "projectName": "Swagger",
-        "projectPath": "/Users/shahroz/Projects/Swagger/Swagger/Swagger.csproj",
+        "projectPath": "/Users/shahroz/Documents/GitHub/Dotnet-Swagger-OpenAPI-Xamarin/Swagger/Swagger.csproj",
         "packagesPath": "/Users/shahroz/.nuget/packages/",
-        "outputPath": "/Users/shahroz/Projects/Swagger/Swagger/obj/",
+        "outputPath": "/Users/shahroz/Documents/GitHub/Dotnet-Swagger-OpenAPI-Xamarin/Swagger/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/shahroz/.nuget/NuGet/NuGet.Config"
