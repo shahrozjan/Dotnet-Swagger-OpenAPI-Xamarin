@@ -1,0 +1,4 @@
+﻿<Properties StartupConfiguration="{774781F5-F26C-458F-8ED0-C547A2BC68D7}|https" GitUserInfo="UsingGIT">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Swagger PreferredExecutionTarget="/Applications/Firefox.app" />
+</Properties>
