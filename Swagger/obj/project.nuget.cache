@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Lq6rBs6kZPEUusFt5zd0s8eVB+8mu0fLC+/brIQOdceE7kA8pqbaqo8arVPfy5Hy0npQ78Rcf2PbYruOqNjNNA==",
+  "dgSpecHash": "QsQp44nDGnZiSn12WaAQ9EVWozqGP16axzWgHScJYihwXwGPsJ6Jmiao/cTk2ig183l9wLkNLMirRuJZIDFm3Q==",
   "success": true,
   "projectFilePath": "/Users/shahroz/Documents/GitHub/Dotnet-Swagger-OpenAPI-Xamarin/Swagger/Swagger.csproj",
   "expectedPackageFiles": [
@@ -11,10 +11,10 @@
     "/Users/shahroz/.nuget/packages/microsoft.sourcelink.common/1.1.1/microsoft.sourcelink.common.1.1.1.nupkg.sha512",
     "/Users/shahroz/.nuget/packages/microsoft.sourcelink.github/1.1.1/microsoft.sourcelink.github.1.1.1.nupkg.sha512",
     "/Users/shahroz/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
-    "/Users/shahroz/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
-    "/Users/shahroz/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
-    "/Users/shahroz/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "/Users/shahroz/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+    "/Users/shahroz/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/shahroz/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/shahroz/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/shahroz/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
   ],
   "logs": []
 }
